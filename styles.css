@@ -1,0 +1,35 @@
+.mybg{
+    background-color: #044556;
+}
+.text-color {
+  color: #aeb2b3;
+}
+.navbar-toggler {
+  filter: invert(1);
+}
+.fa-solid {
+font-size: 48px; 
+display: block; 
+margin: 0 auto;
+margin-bottom: 15px;
+}
+.img-fluid {
+max-width: 90%;
+}
+.pl-50 {
+padding-left: 50px;
+}
+.mr-20 {
+margin-right: 20px;
+}
+@media (max-width: 767.98px) {
+.hide-on-sm {
+  display: none;
+}
+.admin-card {
+  margin-bottom: 15px;
+}
+.mb-sm-4 {
+margin-bottom: 1.5rem; 
+}
+}
